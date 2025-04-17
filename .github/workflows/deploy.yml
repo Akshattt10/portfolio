@@ -25,5 +25,5 @@ jobs:
         with:
           path: '.'
 
-      - name: Deploy to GitHub Pages
+      - name: Custom GitHub Pages Deploy
         uses: actions/deploy-pages@v2
